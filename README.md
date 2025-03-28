@@ -71,25 +71,5 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 ![image](https://github.com/user-attachments/assets/8fc13d54-93ab-40da-9f95-e9ec2a3e176e)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+        <<Thus, the Exploratory Data Analysis on the given data set was performed successfully.>>
